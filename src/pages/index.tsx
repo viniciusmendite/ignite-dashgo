@@ -5,6 +5,7 @@ import { Input } from '../components/Form/Input';
 export default function SignIn() {
   return (
     <Flex
+      as="main"
       h="100vh"
       align="center"
       justify="center"
